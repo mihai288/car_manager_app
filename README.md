@@ -5,3 +5,4 @@ User friendly interace for car management(add car details, see fuel live price i
 3. You can calculate money spent on a drive by entering KM driven and avg consumption
 4. App will show you from your last inputs an avg consumption of your drives and will tell bad consumption/normal consumption
 5. App will calculate money spent on drives and will output them on the first page
+6. App will save data only if you go in main menu and press save and exit (live update coming soon)
